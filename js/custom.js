@@ -312,6 +312,7 @@
 		};
 
 		$('#GoToHome, #GoToAbout, #GoToFeatures, #GoToWorks, #GoToTeam, #GoToPricing, #GoToBlog, #GoToCareers, #GoToContacts' ).scrollTo({ speed: 1400 });
+		$('#CTAAbout, #CTAFeatures, #CTACareers' ).scrollTo({ speed: 1400 });
 
 	});
 
