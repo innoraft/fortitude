@@ -298,7 +298,8 @@ a:focus {
 
 #intro {
 	width: 100%;
-	background-image: url(../img/thumbs/intro_bkg.jpg);
+  background-image: url(../img/thumbs/intro_bkg.jpg);
+	background-image: url(../img/bgs/banner.jpg);
 	background-repeat: no-repeat;
 	background-position: center center;
 	background-size: cover;
