@@ -1852,9 +1852,13 @@ textarea {
    ========================================================================== */
 
 #footer {
-	padding-top: 80px;
-	padding-bottom: 60px;
+	/*padding-top: 80px;
+	padding-bottom: 60px;*/
 	background-color: #262626;
+}
+
+#footer p {
+  margin: 10px;
 }
 
 /*------------------------------------------*/
