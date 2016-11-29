@@ -452,6 +452,12 @@ textarea {
 	padding-bottom: 80px;
 }
 
+#about p {
+  font-size: 16px;
+  line-height: 28px;
+  font-weight: 300;
+}
+
 /*------------------------------------------*/
 /*	TABS HOLDER IMAGE
 /*------------------------------------------*/
@@ -505,7 +511,7 @@ textarea {
 /*------------------------------------------*/
 
 .tab-content > .tab-pane {
-    padding: 25px 0;
+  padding: 25px 0;
 	border: none;
 	border: none;
 }
