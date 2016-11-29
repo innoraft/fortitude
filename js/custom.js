@@ -369,17 +369,17 @@
 
 		"use strict";
 
-		$('.statistic-block').each(function() {
-			$(this).appear(function() {
-				var $endNum = parseInt($(this).find('.statistic-number').text());
-				$(this).find('.statistic-number').countTo({
-					from: 0,
-					to: $endNum,
-					speed: 3000,
-					refreshInterval: 30,
-				});
-			},{accX: 0, accY: 0});
-		});
+		// $('.statistic-block').each(function() {
+		// 	$(this).appear(function() {
+		// 		var $endNum = parseInt($(this).find('.statistic-number').text());
+		// 		$(this).find('.statistic-number').countTo({
+		// 			from: 0,
+		// 			to: $endNum,
+		// 			speed: 3000,
+		// 			refreshInterval: 30,
+		// 		});
+		// 	},{accX: 0, accY: 0});
+		// });
 
 	});
 
